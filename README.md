@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StescuStefan
 - 👀 I’m interested in Music, Movies, and Programming.
-- 🌱 I’m currently learning JavaScript & React, TypeScript, and shortly Ethical Hacking.
+- 🌱 I’m currently learning JavaScript, R & Python for Data Analysis, and shortly React.
 - 💞️ I’m working on my projects in my free time.
 - 📫 How to reach me: You can find me on LinkedIn https://www.linkedin.com/in/%C8%99tefan-stescu-0719511b9/
 
