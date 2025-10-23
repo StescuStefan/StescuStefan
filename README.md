@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StescuStefan
-- 🌱 Currently learning R & Python for Data Analysis, and shortly Power BI.
+- 🌱 Currently learning for the AWS Cloud Practitioner and Snowflake Core Certifications.
 - 📫 How to reach me: You can find me on LinkedIn https://www.linkedin.com/in/%C8%99tefan-stescu-0719511b9/
 
 <!---
